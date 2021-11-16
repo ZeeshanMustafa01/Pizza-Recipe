@@ -1,3 +1,4 @@
-# forkify Project
+# Pizza Recipes App
 
-Recipe application with custom recipe uploads.
+Many Recipies to search and create your own.
+Let'S make something new today :)
